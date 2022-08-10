@@ -18,14 +18,7 @@ h1, .score {
     color: #0f0f0f;
 }
 
-canvas {
- 
- font-family: 'Courier New', Courier, monospace;
-    margin: 0 auto;
-    background: rgb(34,193,195);
-background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(246,242,233,1) 100%);
-   
-}
+
 
 
 
